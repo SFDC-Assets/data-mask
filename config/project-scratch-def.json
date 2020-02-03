@@ -1,10 +1,7 @@
 {
   "orgName": "data-mask",
-  "edition": "Developer",
+  "sourceOrg": "00D1U000000zC7T",
   "settings": {
-    "communitiesSettings": {
-      "enableNetworksEnabled": false
-    },
     "lightningExperienceSettings": {
       "enableS1DesktopEnabled": true
     },
