@@ -18,14 +18,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mshanec/data-mask.git"
+    "url": "git+https://github.com/mshanemc/data-mask.git"
   },
   "author": "Shane McLaughlin",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mshanec/data-mask/issues"
+    "url": "https://github.com/mshanemc/data-mask/issues"
   },
-  "homepage": "https://github.com/mshanec/data-mask",
+  "homepage": "https://github.com/mshanemc/data-mask",
   "devDependencies": {
     "nodemon": "^1.19.2"
   }
