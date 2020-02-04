@@ -1,6 +1,7 @@
 {
   "orgName": "data-mask",
   "sourceOrg": "00D1U000000zC7T",
+  "hasSampleData": true,
   "settings": {
     "lightningExperienceSettings": {
       "enableS1DesktopEnabled": true
