@@ -40,7 +40,7 @@
     </values>
     <values>
         <field>datamask__Masking_Object__c</field>
-        <value xsi:type="xsd:string">ContactSample</value>
+        <value xsi:type="xsd:string">ContactPSample</value>
     </values>
     <values>
         <field>datamask__Masking_Type__c</field>
