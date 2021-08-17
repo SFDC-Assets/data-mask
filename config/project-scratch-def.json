@@ -1,7 +1,7 @@
 {
   "orgName": "data-mask",
   "edition": "Developer",
-  "features": ["DataMaskUser"],
+  "features": ["DataMaskUser", "enableSetPasswordInApi"],
   "hasSampleData": true,
   "settings": {
     "lightningExperienceSettings": {
@@ -12,11 +12,6 @@
     },
     "mobileSettings": {
       "enableS1EncryptedStoragePref2": false
-    },
-    "securitySettings": {
-      "passwordPolicies": {
-        "enableSetPasswordInApi": true
-      }
     }
   }
 }
