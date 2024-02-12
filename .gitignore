@@ -2,3 +2,5 @@ node_modules
 .vscode/settings.json
 .localdevserver
 .DS_Store
+.sf
+.sfdx
