@@ -1,7 +1,7 @@
 {
   "orgName": "data-mask",
   "edition": "Developer",
-  "features": ["DataMaskUser", "enableSetPasswordInApi"],
+  "features": ["DataMaskUser", "enableSetPasswordInApi","bar_BackupRestoreUserPsl"],
   "hasSampleData": true,
   "settings": {
     "lightningExperienceSettings": {
