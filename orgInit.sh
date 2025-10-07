@@ -2,7 +2,7 @@ sf demoutil org create scratch -f config/project-scratch-def.json -d 5 -s -p dat
 
 # Find the latest version of the package at https://sfdc.co/datamask-install, and copy that id from the url to the below line
 sf package install -w 20 -r -p 04tKV000002AghV
-sf org assign permsetlicense datamask_DataMaskUserPsl
+sf org assign permsetlicense -n datamask_DataMaskUserPsl
 sf org assign permset -n datamask
 sf apex run -f scripts/apex/createCustomLibrary.apex
 
